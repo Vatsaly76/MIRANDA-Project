@@ -5,7 +5,7 @@ Miranda is a visually stunning retro-inspired website built using HTML, CSS, and
 ✨ Vintage Aesthetics: Bold colors, retro patterns, and nostalgic vibes.
 🎨 Funky Typography: Carefully chosen fonts that reflect a retro look.
 🎥 Smooth Animations: JavaScript-powered effects for a dynamic user experience.
-📱 Responsive Design: Optimized for all devices.
+
 🛠️ Tech Stack:
 HTML5: Structuring the content.
 CSS3: Styling with retro vibes.
